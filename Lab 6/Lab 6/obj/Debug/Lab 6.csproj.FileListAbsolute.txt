@@ -1,0 +1,9 @@
+D:\Files\Program\CompGrafic\Lab 6\Lab 6\bin\Debug\Lab 6.exe.config
+D:\Files\Program\CompGrafic\Lab 6\Lab 6\bin\Debug\Lab 6.exe
+D:\Files\Program\CompGrafic\Lab 6\Lab 6\bin\Debug\Lab 6.pdb
+D:\Files\Program\CompGrafic\Lab 6\Lab 6\obj\Debug\Lab 6.csprojResolveAssemblyReference.cache
+D:\Files\Program\CompGrafic\Lab 6\Lab 6\obj\Debug\Lab_6.Form1.resources
+D:\Files\Program\CompGrafic\Lab 6\Lab 6\obj\Debug\Lab_6.Properties.Resources.resources
+D:\Files\Program\CompGrafic\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.GenerateResource.Cache
+D:\Files\Program\CompGrafic\Lab 6\Lab 6\obj\Debug\Lab 6.exe
+D:\Files\Program\CompGrafic\Lab 6\Lab 6\obj\Debug\Lab 6.pdb
